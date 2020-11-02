@@ -6,6 +6,8 @@ class Main {
     System.out.println(chips[i]);
   }
 
-  
+  chips[6] = "Fritos";
+
+  System.out.print
   }
 }
