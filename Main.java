@@ -8,6 +8,17 @@ class Main {
 
   chips[6] = "Fritos";
 
-  System.out.print
+  System.out.print("\n Here is our updated list; \n");
+
+  for (int i=0; i<chips.length; i++){
+    System.out.println(chips[i]);
+  }
+
+    System.out.print("\n Here is our updated list; \n");
+
+  for (int s=6; s>0; s--){
+    System.out.println(candy[v]  )  ;
+  }
+  
   }
 }
