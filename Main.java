@@ -16,7 +16,7 @@ class Main {
 
     System.out.print("\n Here is our updated list; \n");
 
-  for (int s=6; s>0; s--){
+  for (int s=6; s>=0; s--){
     System.out.println(chips[s]  )  ;
   }
 
